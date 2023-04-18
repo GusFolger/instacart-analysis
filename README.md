@@ -1,5 +1,5 @@
 # instacart-analysis
-Analysis of customer behaviours using Python and open sourced data. The project is part of the Careerfoundry Data Analytics course.
+Analysis of customer behaviours using Python and open sourced data. This project is part of the Careerfoundry Data Analytics course.
 
 # Objective
 Instacart is grocery delivery service that is requesting information to specifically target its customers through advertising. 
